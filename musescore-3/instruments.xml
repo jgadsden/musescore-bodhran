@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore>
+      <InstrumentGroup id="unpitched-percussion">
+            <name>Percussion - Unpitched</name>
+            <Instrument id="bodhran">
+                  <longName>Bodhrán</longName>
+                  <shortName>Bod.</shortName>
+                  <description>Irish Bodhrán</description>
+                  <musicXMLid>drum.bodhran</musicXMLid>
+                  <clef>PERC</clef>
+                  <stafftype staffTypePreset="perc1Line">percussion</stafftype>
+                  <barlineSpan>1</barlineSpan>
+                  <drumset>1</drumset>
+                  <Drum pitch="64">
+                        <head>slash</head>
+                        <line>1</line>
+                        <voice>0</voice>
+                        <name>Top damping</name>
+                        <stem>1</stem>
+                        <shortcut>A</shortcut>
+                  </Drum>
+                  <Drum pitch="63">
+                        <head>slash</head>
+                        <line>-1</line>
+                        <voice>0</voice>
+                        <name>Bottom damping</name>
+                        <stem>1</stem>
+                        <shortcut>B</shortcut>
+                  </Drum>
+                  <Drum pitch="62">
+                        <head>xcircle</head>
+                        <line>0</line>
+                        <voice>0</voice>
+                        <name>Frame shot</name>
+                        <stem>1</stem>
+                        <shortcut>C</shortcut>
+                  </Drum>
+                  <Channel>
+                        <controller ctrl="0" value="1"/>
+                        <program value="48"/>
+                  </Channel>
+                  <genre>world</genre>
+            </Instrument>
+      </InstrumentGroup>
+</museScore>
+
