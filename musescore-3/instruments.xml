@@ -5,7 +5,7 @@
             <Instrument id="bodhran">
                   <longName>Bodhrán</longName>
                   <shortName>Bod.</shortName>
-                  <description>Irish Bodhrán</description>
+                  <description>Irish Bodhrán, a type of handheld frame drum</description>
                   <musicXMLid>drum.bodhran</musicXMLid>
                   <clef>PERC</clef>
                   <stafftype staffTypePreset="perc1Line">percussion</stafftype>
