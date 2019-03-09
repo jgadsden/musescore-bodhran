@@ -18,3 +18,5 @@ MuseScore-3
 
 Once a Bodhrán instrument staff is added to the score, then there is no need to keep this
 instrument file in the 'Instrument List 2' extension.
+
+In the examples directory is a score with both Bodhrán and Tin Whistle.
